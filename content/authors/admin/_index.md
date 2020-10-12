@@ -61,3 +61,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+I am a fifth-year Ph.D. student in Operations Research at Cornell University, where I'm fortunate to be advised by Professor [Siddhartha Banerjee](https://people.orie.cornell.edu/sbanerjee/). I obtained my B.S.E. in [Operations Research and Financial Engineering](https://orfe.princeton.edu) from [Princeton University](https://www.princeton.edu), with a minor in Applied Mathematics.
+
+My research lies at the intersection of computer science and economics, more specifically focusing on algorithm and incentive design for online marketplaces.
+
