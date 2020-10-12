@@ -24,9 +24,9 @@ My research lies at the intersection of computer science and economics, more spe
 
 
 interests:
-    - Market Design
-    - Algorithmic Game Theory
-    - Revenue Management and Pricing
+- Market Design
+- Algorithmic Game Theory
+- Revenue Management and Pricing
 
 education:
   courses:
