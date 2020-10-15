@@ -15,7 +15,7 @@ authors = ["Chamsi Hssaine", "Vijay Kamble", "Siddhartha Banerjee"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Submitted"
@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1809.00751"
+url_preprint = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3544350"
 url_code = ""
 url_dataset = ""
 url_project = ""
