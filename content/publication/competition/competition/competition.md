@@ -18,7 +18,7 @@ authors = ["Chamsi Hssaine", "Vijay Kamble", "Siddhartha Banerjee"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "Working paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
