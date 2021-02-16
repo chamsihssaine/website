@@ -71,7 +71,7 @@ subtitle = ""
 
 Satisficing Search and Algorithmic Price Competition:
 - Imperial College-LBS-UCL OR/MS PhD Seminar, March 2021
-- [Rising Stars in EECS](https://eecs.berkeley.edu/rising-stars-2020) (UC Berkeley), Virtual, November 2020
-- INFORMS 2020, Virtual, November 2020
-- [Stanford GSB Rising Scholars Conference](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/rising-scholars-conference), Virtual, October 2020
-- Kellogg-Wharton OM Workshop, Virtual, July 2020
+- [Rising Stars in EECS](https://eecs.berkeley.edu/rising-stars-2020) (UC Berkeley), November 2020
+- INFORMS Annual Meeting, November 2020
+- [Stanford GSB Rising Scholars Conference](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/rising-scholars-conference), October 2020
+- Kellogg-Wharton OM Workshop, July 2020
