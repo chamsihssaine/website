@@ -18,13 +18,13 @@ organizations:
 - url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fifth year Ph.D. student in Operations Research at Cornell University, where I'm fortunate to be advised by Professor [Siddhartha Banerjee](https://people.orie.cornell.edu/sbanerjee/). I obtained my B.S.E. in [Operations Research and Financial Engineering](https://orfe.princeton.edu) from [Princeton University](https://www.princeton.edu), with a minor in Applied Mathematics. My research lies at the intersection of computer science and economics, more specifically focusing on algorithm and incentive design for online marketplaces.
+bio: I am a fifth year Ph.D. student in Operations Research at Cornell University, where I'm fortunate to be advised by Professor [Siddhartha Banerjee](https://people.orie.cornell.edu/sbanerjee/). I obtained my B.S.E. in [Operations Research and Financial Engineering](https://orfe.princeton.edu) from [Princeton University](https://www.princeton.edu), with a minor in Applied Mathematics. My research lies at the intersection of computer science and economics, more specifically focusing on algorithm and incentive design for online marketplaces. 
 
 
 interests:
 - Market Design
-- Algorithmic Game Theory
 - Revenue Management and Pricing
+- Algorithmic Game Theory
 
 education:
   courses:
@@ -63,5 +63,4 @@ user_groups:
 
 I am a fifth-year Ph.D. student in Operations Research at Cornell University, where I'm fortunate to be advised by Professor [Siddhartha Banerjee](https://people.orie.cornell.edu/sbanerjee/). I obtained my B.S.E. in [Operations Research and Financial Engineering](https://orfe.princeton.edu) from [Princeton University](https://www.princeton.edu), with a minor in Applied Mathematics. 
 
-My research lies at the intersection of computer science and economics, more specifically focusing on algorithm and incentive design for online marketplaces.
-
+My research lies at the intersection of operations research and economics, more specifically focusing on algorithm and incentive design for large-scale marketplaces. In addition to my academic work, I worked as an applied science intern at Amazon on the Personalization and Long-Term Optimization team in the summer of 2020, as well as a research intern at RAND in the summer of 2018. 

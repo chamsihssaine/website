@@ -4,7 +4,7 @@ date = 2020-09-04T23:25:59-04:00
 #draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Chamsi Hssaine", "Vijay Kamble", "Siddhartha Banerjee"]
+authors = ["Siddhartha Banerjee","Chamsi Hssaine", "Vijay Kamble"]
 
 # Publication type.
 # Legend:
