@@ -1,5 +1,5 @@
 +++
-title = "Approximate real-time routing for smart transit systems"
+title = "Real-time approximate routing for smart transit systems"
 date = 2020-10-23T11:59:59-04:00
 #draft = false
 
@@ -43,7 +43,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/2103.06212"
 url_code = ""
 url_dataset = ""
 url_project = ""
