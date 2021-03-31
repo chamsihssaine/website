@@ -18,7 +18,7 @@ authors = ["Siddhartha Banerjee","Chamsi Hssaine","Noémie Périvier","Samitha S
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "SIGMETRICS 2021"
+publication = "*SIGMETRICS 2021*"
 publication_short = ""
 
 # Abstract and optional shortened version.
