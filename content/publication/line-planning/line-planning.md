@@ -44,7 +44,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://arxiv.org/abs/2103.06212"
-url_code = ""
+url_code = "https://github.com/noemieperivier/line_planning"
 url_dataset = ""
 url_project = ""
 url_slides = ""
