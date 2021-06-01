@@ -15,7 +15,7 @@ authors = ["Siddhartha Banerjee","Chamsi Hssaine","Noémie Périvier","Samitha S
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "To appear in *SIGMETRICS 2021* / *ACM POMACS*"
