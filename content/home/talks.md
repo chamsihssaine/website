@@ -70,6 +70,7 @@ subtitle = ""
 +++
 
 Satisficing Search and Algorithmic Price Competition:
+- INFORMS Revenue Management and Pricing Conference, June 2021
 - Marketplace Innovation Workshop (Poster), May 2021
 - Imperial College-LBS-UCL OR/MS PhD Seminar, March 2021
 - [Rising Stars in EECS](https://eecs.berkeley.edu/rising-stars-2020) (UC Berkeley), November 2020
